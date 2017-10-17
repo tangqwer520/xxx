@@ -10,7 +10,7 @@ import java.security.PublicKey;
 import java.security.Signature;
 public class DSA {
 	public static void main(String[] args) {
-		try {
+		try {/////
 			DSA my = new DSA();
 			my.run();
 		} catch (Exception e) {
